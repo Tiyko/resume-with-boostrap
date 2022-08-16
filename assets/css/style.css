@@ -185,6 +185,9 @@ header {
     letter-spacing: 2px;
 }
 
+.list-inline {
+    display: flex;
+}
 
 /*--------------------------------------------Hover.css*/
 
